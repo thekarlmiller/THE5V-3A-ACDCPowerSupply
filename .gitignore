@@ -1,0 +1,31 @@
+# TKM's THE5V-3A-ACDCPowerSupply repository
+# for repo git@github.com:thekarlmiller/THE5V-3A-ACDCPowerSupply.git
+
+# files to include (NOT ignore)
+!.gitignore
+!*.yaml
+!*.md
+!*.sh
+!*.js*
+!kicad
+!docs
+!THE5V-3A-ACDCPowerSupply*
+
+# files to Ignore
+.cloud
+.google.token
+.ssh
+.storage
+*.bin
+*.log*
+*.db*
+id_rsa*
+secrets.yaml
+*-backups
+fp-info-cache
+fp-lib-table
+sym-lib-table
+report.txt
+*.lck
+*-backups
+\#auto_saved_files#
